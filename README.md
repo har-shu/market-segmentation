@@ -1,5 +1,5 @@
 # market-segmentation
-Market Segmentation in Insurance
+
 
 
 ![image](https://github.com/har-shu/market-segmentation/assets/71369996/b10ee291-9f8d-45fb-b59c-9b8a1746aabc)
